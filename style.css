@@ -1,0 +1,52 @@
+/* Write your CSS below. Try to make it responsive (i.e. no horizontal scroll) */
+.body{
+    display: inline;
+}
+
+.font{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.bar{
+   float: right;
+}
+
+.img{
+    float: left;
+}
+
+.price{
+    color: #c6614b;
+}
+
+.star{
+    color: #f8b732;
+}
+
+.cart-btn{
+    background-color: #f2849e;
+    color: white;
+    padding: 1em 4em;
+    border: none;
+}
+
+/*.panda{
+    justify-content: flex-start;
+    display: flex;
+    width: 40%;
+    
+}
+
+.text{
+  /*  justify-content: flex-end;
+    display: flex;
+    width: 40%;
+}
+
+.main{
+   /* width: 80%;
+    display: flex;
+    align-content: center;
+    justify-content: 80%;
+}
+*
